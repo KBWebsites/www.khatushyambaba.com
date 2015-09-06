@@ -1,0 +1,34 @@
+- text: Home
+  url: /
+- text: Aarti
+  url: /aarti/
+- text: Katha
+  url: /katha/
+- text: Skand Puran
+  url: /skand-puran/
+- text: Other Names
+  url: /other-names/
+- text: Chalisa
+  url: /chalisa/
+- text: Chourashi
+  url: /chourashi/
+- text: Bhajans
+  url: /bhajans/
+- text: Movies
+  url: /movies/
+- text: Method of Kirtan
+  url: /method-of-kirtan/
+- text: Temple Profile
+  url: /temple-profile/
+- text: Shree Shyam Kund
+  url: /shree-shyam-kund/
+- text: Temple Location
+  url: /temple-location/
+- text: Bir Babran Temple
+  url: /bir-babran-temple/
+- text: Other Temples
+  url: /other-temples/
+- text: Online Prayers
+  url: /online-prayers/
+- text: Contact
+  url: /contact/

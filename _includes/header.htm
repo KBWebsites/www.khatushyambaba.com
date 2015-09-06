@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>{% unless page.url == '/' %}{{page.title}} &middot; {% endunless %}{{site.name}}</title>
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="/-/css/main.css" />
+<link rel="stylesheet" href="/-/css/slider.css" />
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/flexslider/2.2.2/jquery.flexslider-min.js"></script>
+<script type="text/javascript">jQuery(document).ready(function(e){e(".flexslider").flexslider({controlsContainer:"#genesis-responsive-slider",animation:"fade",directionNav:0,controlNav:0,animationDuration:800,slideshowSpeed:4000})})</script>
+{% for css in page.css %}<link rel="stylesheet" href="{{css}}" />{% endfor %}
+</head>
+<body>
+<div id="header">
+<a href="/"><img src="/-/img/logo.png" alt="" />
+<h1>{{ site.name }}</h1>
+<h2>&nbsp; मम सेव्यम् पराजित:</h2></a>
+</div>
+<div id="wrapper">
+<div id="header-marquee"><marquee scrollamount="2"><img src="/-/img/three_arrows_white.png" alt="" />&nbsp;&nbsp;Om Shree Shyam Devaya Namah&nbsp;&nbsp;<img src="/-/img/three_arrows_white.png" alt="" /></marquee></div>
+<div id="sidebar">
+<ul id="nav">
+{% include nav.htm nav=site.data.nav %}
+</ul>
+{% include slicebox.htm %}
+<center><img src="/-/img/deepak.gif" alt="" /></center>
+<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fourkhatushyambaba&amp;width=230&amp;height=385&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=false&amp;appId=112094522216863" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width: 229px; height: 400px; margin-left:-10px" allowtransparency="true"></iframe>
+</div>
+<div id="content">
