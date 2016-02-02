@@ -3,7 +3,7 @@ title: Katha
 layout: default
 ---
 
-The legend begins with the Mahābhārata. Barbarika alias 'KhatuShyam' alias Shyam Baba was the grandson of Bhima, Second of the Pandava brothers. He was the son of Ghatotkacha (who in turn was son of Bhima) and Kamkantkata Ma Morwi. Even in his childhood, Barbarika was a very brave warrior. He learnt the art of warfare from his mother. God Shiva, pleased with him, gave him the three infallible arrows (Teen Baan). Hence, Barbarika came to be known by the appellation Teen Baan Dhaari, the "Bearer of Three Arrows". Later, Agni (the god of Fire) gave him the bow that would make him victorious in the three worlds.
+The legend begins with the Mahābhārata. Barbarika alias 'KhatuShyam' alias Shyam Baba was a son of Bhima, Second of the Pandava brothers. He was the son of Bhima and Ahelwati. Even in his childhood, Barbarika was a very brave warrior. He learnt the art of warfare from his mother. God Shiva, pleased with him, gave him the three infallible arrows (Teen Baan). Hence, Barbarika came to be known by the appellation Teen Baan Dhaari, the "Bearer of Three Arrows". Later, Agni (the god of Fire) gave him the bow that would make him victorious in the three worlds.
 
 When Barbarika got to know that battle between the Pandavas and the Kauravas had become inevitable, he wanted to witness what was to be the Mahābhārata War. He promised his mother that if he felt the urge to participate in the battle, he would join the side which would be losing. He rode to the field on his Blue Horse equipped with his three arrows and bow.
 
