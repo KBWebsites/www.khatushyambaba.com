@@ -34,7 +34,7 @@ layout: default
 nidaan@gmail.com
 
 ### POST
-Mahendra Bagaria  
+[Mahendra Bagaria](https://www.facebook.com/MahendraBagaria)  
 Thana Charali  
 Near Overbridge  
 Dibrugarh - 786001  
