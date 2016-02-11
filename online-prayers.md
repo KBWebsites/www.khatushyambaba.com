@@ -29,6 +29,7 @@ $('#post-form').submit(function(event){
     $('#post-msg').text('Posting...');
     $.post( $('#post-form').attr('action'), $('#post-form').serialize(), function(res) {
         $('#post-msg').text(res);
+        $('#msg').text('');
     }, 'text' );
     event.preventDefault();
 });
