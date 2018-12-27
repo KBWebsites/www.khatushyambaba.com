@@ -16,5 +16,7 @@ layout: default
 
 ### [This tree was a witness to Mahabharata](http://www.tribuneindia.com/2000/20000806/spectrum/main2.htm) (Article posted on Sunday, August 6, 2000 in The Tribune)
 
+<iframe width="700" height="394" src="https://www.youtube.com/embed/S6dw_B7JePs?rel=0" frameborder="0" allowfullscreen></iframe>
+
 [writing]: /files/bir-babran/writing.jpg
 [map]: /files/bir-babran/map.jpg
