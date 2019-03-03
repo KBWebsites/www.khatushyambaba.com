@@ -4,7 +4,7 @@ layout: default
 id: shyambaba
 ---
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-timeago/1.4.1/jquery.timeago.min.js"></script>
-
+<!-- 
 <h3 id="post-msg"></h3>
 <form id="post-form" action="https://a.kishan.info/comments/?id={{ page.id }}" method="post">
 <label for="name">Name</label><br>
@@ -14,7 +14,7 @@ id: shyambaba
 <input type="text" name="foo" style="display:none">
 <button type="submit">Post</button>
 </form>
-
+ -->
 <br>
 
 <div id="comments"><noscript>Not </noscript>Loading...<noscript> (Please enable JavaScript or use a different browser to view this page.)</noscript></div>
