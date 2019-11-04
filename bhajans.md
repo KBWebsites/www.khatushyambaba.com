@@ -3,7 +3,7 @@ title: Bhajans
 layout: default
 pdfs: ["Aao Kanhaiya Aao", "Chandi ke Sinhasan", "Choti Choti Gaiya", "Darjee Sim De", "Jay Shri Shyam", "Kirtan Ki Hai Raat", "Shyam Ki Bhakti", "Thane Parde Mein"]
 audios: ["160656359","160656349","160656342","160656334","160656325","160656307","160656302","160656294","160656283"]
-videos: ["xNPcA-lE64I","6e23YUwWiCM","KSesAwAfyZ8","dca7Rkj-WXY","nS83m_qolBY","JI20M29Eku8","S9lmHetm828","JMVq_bFKTyc"]
+videos: ["-jg4NtmqO1o","5bNsXUrlnJo","bPSycgZCVC8","325Ov8dos4M","xNPcA-lE64I","KSesAwAfyZ8","dca7Rkj-WXY","YfWGuSSrJzI"]
 ---
 ### PDF
 <div id="pdfs">
