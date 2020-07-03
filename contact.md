@@ -30,6 +30,9 @@ layout: default
 #### Bir Babran Temple
 [+91 98965 77798](tel:+919896577798)  
 
+#### Khatushyamji
+[+91 95294 33460](tel:+919529433460)  
+
 ### FAX
 +91 373 2324860
 
