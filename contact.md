@@ -3,9 +3,9 @@ title: Contact
 layout: default
 ---
 <table width="100%">
-<col width="75%"/>
+<col width="70%"/>
 <col width="5%" />
-<col width="20%"/>
+<col width="25%"/>
 <tr>
 <td>
 <h3>CONTACT FORM</h3>
