@@ -23,9 +23,6 @@ layout: default
 </td>
 <td></td>
 <td markdown="block" valign="top">
-### PHONE
-[+91 9435 010101](tel:+919435010101)  
-[+91 9435 020202](tel:+919435020202)  
 
 #### Bir Babran Temple
 [+91 98965 77798](tel:+919896577798)  
